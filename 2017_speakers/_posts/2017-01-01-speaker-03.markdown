@@ -1,5 +1,5 @@
 ---
-title: Senin için de bir yerimiz varmış başvurunu bekliyoruzZ!
+title: Senin için de bir yerimiz varmış başvurunu bekliyoruZ!
 name: Name-3
 subtitle: kendini nasıl tanımlamak istersin? full geek stack cyber frontback developer :) 
 layout: 2017_default

@@ -1,0 +1,15 @@
+---
+title: Merve Yılmaz
+name: Name-6
+subtitle: Developer
+layout: 2017_default
+modal-id: 1
+img: mervey.jpg
+thumbnail: mervey.jpg
+alt: Picture of TBD
+topic: topic
+twitter:
+github: http://github.com/MerveeYilmaz
+linkedin: https://linkedin.com/in/merve-yilmaz04
+description: More Info
+---

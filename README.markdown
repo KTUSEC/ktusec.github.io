@@ -1,10 +1,10 @@
-#ktusec.github.io
-KtuSec Siber Güvenlik Topluluğunun resmi websitesi.
+# :sparkles: [ktusec.com](http://ktusec.com)
 
+KtuSec Siber Güvenlik Topluluğu resmi websitesi.
 
 
 ## :octocat: Contributors
 
-* [Mücahid Doğan](https://github.com/mucahiddogan)
+* [Mücahid Doğan](http://github.com/mucahiddogan)
 
 Powered by Jekyll

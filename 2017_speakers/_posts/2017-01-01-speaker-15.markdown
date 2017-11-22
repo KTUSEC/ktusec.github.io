@@ -1,0 +1,17 @@
+---
+title: Mücahid Doğan
+name: Name-15
+subtitle: Team Lead
+layout: 2017_default
+modal-id: 1
+img: mchd.jpg
+thumbnail: mchd.jpg
+alt: Picture of TBD
+topic: Topic
+website: http://mucahiddogan.com
+web_name: mucahiddogan.com
+twitter: http://twitter.com/mucahiddogan_
+github: http://github.com/mucahiddogan
+linkedin: http://tr.linkedin.com/in/mucahiddogan
+description: More Info
+---

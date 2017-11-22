@@ -1,0 +1,17 @@
+---
+title: Raif Berkay Dinçel
+name: Name-12
+subtitle: Cyber Security Researcher
+layout: 2017_default
+modal-id: 1
+img: rdincel.jpg
+thumbnail: rdincel.jpg
+alt: Picture of TBD
+topic: Topic
+website: http://raifberkaydincel.com
+web_name: raifberkaydincel.com
+twitter: https://twitter.com/rdincel1
+github: https://github.com/rdincel1
+linkedin: https://www.linkedin.com/in/raif-berkay-dinçel-87a51295/
+description: More Info
+---

@@ -1,0 +1,17 @@
+---
+title: Onur Sanır
+name: Name-13
+subtitle: Game Developer
+layout: 2017_default
+modal-id: 1
+img: rdincel.jpg
+thumbnail: onsan.jpg
+alt: Picture of TBD
+topic: topic
+website: http://onursanir.com
+web_name: onursanir.com
+twitter: http://twitter.com/onursanir
+github: http://github.com/osanir
+linkedin: https://tr.linkedin.com/in/onur-sanir-a7058b127
+description: More Info
+---

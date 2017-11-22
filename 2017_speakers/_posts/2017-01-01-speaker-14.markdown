@@ -1,0 +1,17 @@
+---
+title: Kerem Demirtürk
+name: Name-14
+subtitle: Co-Founder
+layout: 2017_default
+modal-id: 1
+img: kd.jpg
+thumbnail: kd.jpg
+alt: Picture of TBD
+topic: topic
+website: http://keremdemirtrk.com
+web_name: keremdemirtrk.com
+twitter: http://twitter.com/keremdemirtrk
+github: http://github.com/keremdemirtrk
+linkedin: http://tr.linkedin.com/in/kerem-demirt%C3%BCrk-73a48712b
+description: More Info
+---

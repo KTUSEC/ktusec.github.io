@@ -1,17 +1,15 @@
 ---
-title: Onur Sanır
+title: Sıla İkinci
 name: Name-8
-subtitle: Game Developer
+subtitle: Developer
 layout: 2017_default
 modal-id: 1
-img: rdincel.jpg
-thumbnail: onsan.jpg
+img: sila2.jpg
+thumbnail: sila2.jpg
 alt: Picture of TBD
-topic: topic
-website: http://onursanir.com
-web_name: onursanir.com
-twitter: http://twitter.com/onursanir
-github: http://github.com/osanir
-linkedin: https://tr.linkedin.com/in/onur-sanir-a7058b127
+topic: topıc
+twitter: https://twitter.com/ikinci_s
+github: https://github.com/Sila2
+linkedin: https://www.linkedin.com/in/sıla-ikinci-644480151/
 description: More Info
 ---

@@ -29,6 +29,8 @@ social:
     url: https://www.facebook.com/ktu.sec
   - title: twitter
     url: https://twitter.com/ktusec
+  - title: github
+    url: http://github.com/ktusec
 
 # Build settings
 markdown: kramdown

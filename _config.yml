@@ -1,4 +1,4 @@
-title: KtuSec | Siber Güvenlik Topluluğu
+title: KtuSec | Siber Güvenlik Kulübü
 description: > # Karadeniz Teknik Üniversitesi Siber Güvenlik Topluluğu resmi sitesi. "baseurl:"
   Your description
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -31,6 +31,8 @@ social:
     url: https://twitter.com/ktusec
   - title: github
     url: http://github.com/ktusec
+  - title: instagram
+    url: https://www.instagram.com/ktusec/?hl=tr
 
 # Build settings
 markdown: kramdown

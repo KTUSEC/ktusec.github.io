@@ -1,7 +1,8 @@
- title: KtuSec | Siber Güvenlik Kulübü
+title: KtuSec | Siber Güvenlik Kulübü
  # description: >  Karadeniz Teknik Üniversitesi Siber Güvenlik Kulübü resmi sitesi. "baseurl:"
-description: "Karadeniz Teknik Üniversitesi Siber Güvenlik Kulübü resmi websitesi. #KtuSec "
-  Your description
+
+description: > #Karadeniz Teknik Üniversitesi Siber Güvenlik Kulübü resmi websitesi. KtuSec "baseurl:"
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "ktusec.github.io" # the base hostname & protocol for your site
 # Build settings

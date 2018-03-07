@@ -1,0 +1,17 @@
+---
+title: Yasin Acıerik
+name: Name-06
+subtitle: Front-end Developer
+layout: 2017_default
+modal-id: 1
+img: yasin.jpg
+thumbnail: yasin.jpg
+alt: Picture of TBD
+topic: Topic
+website: 
+web_name: 
+twitter: https://twitter.com/koka_koala
+github: http://github.com/ysnacrk
+linkedin: 
+description: More Info
+---

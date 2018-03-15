@@ -1,13 +1,17 @@
 ---
-title: Emir Çetin
+title: Kerem Oruç
 name: Name-10
-subtitle: Graphic Designer
+subtitle: Developer
 layout: 2017_default
 modal-id: 1
-img: emirc.jpg
-thumbnail: emirc.jpg
+img: keraattin.jpg
+thumbnail: keraattin.jpg
 alt: Picture of TBD
-topic: topıc
-twitter: https://twitter.com/emirc52
+topic: Topic
+website: http://keraattin.co
+web_name: keraattin.co
+twitter: http://twitter.com/keraattin
+github: http://github.com/keraattin
+linkedin: http://tr.linkedin.com/in/keremoruc
 description: More Info
 ---

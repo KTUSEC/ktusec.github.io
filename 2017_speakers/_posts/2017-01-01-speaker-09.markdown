@@ -1,12 +1,17 @@
 ---
-title: Ali Tayyip
-name: Name-9
-subtitle: Developer
+title: Yasin Acıerik
+name: Name-09
+subtitle: Front-end Developer
 layout: 2017_default
 modal-id: 1
-img: alitayyip.jpg
-thumbnail: alitayyip.jpg
+img: yasin.jpg
+thumbnail: yasin.jpg
 alt: Picture of TBD
-topic: topıc
+topic: Topic
+website:
+web_name:
+twitter: https://twitter.com/koka_koala
+github: http://github.com/ysnacrk
+linkedin:
 description: More Info
 ---

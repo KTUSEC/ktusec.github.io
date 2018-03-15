@@ -1,15 +1,13 @@
 ---
-title: Merve Yılmaz
+title: Emir Çetin
 name: Name-11
-subtitle: Developer
+subtitle: Graphic Designer
 layout: 2017_default
 modal-id: 1
-img: mervey.jpg
-thumbnail: mervey.jpg
+img: emirc.jpg
+thumbnail: emirc.jpg
 alt: Picture of TBD
-topic: topic
-twitter:
-github: http://github.com/MerveeYilmaz
-linkedin: https://linkedin.com/in/merve-yilmaz04
+topic: topıc
+twitter: https://twitter.com/emirc52
 description: More Info
 ---

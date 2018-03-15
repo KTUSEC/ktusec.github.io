@@ -1,17 +1,15 @@
 ---
-title: Raif Berkay Dinçel
+title: Sıla İkinci
 name: Name-12
-subtitle: Cyber Security Researcher
+subtitle: Developer
 layout: 2017_default
 modal-id: 1
-img: rdincel.jpg
-thumbnail: rdincel.jpg
+img: sila2.jpg
+thumbnail: sila2.jpg
 alt: Picture of TBD
-topic: Topic
-website: http://raifberkaydincel.com
-web_name: raifberkaydincel.com
-twitter: https://twitter.com/rdincel1
-github: https://github.com/rdincel1
-linkedin: https://www.linkedin.com/in/raif-berkay-dinçel-87a51295/
+topic: topıc
+twitter: https://twitter.com/ikinci_s
+github: https://github.com/Sila2
+linkedin: https://www.linkedin.com/in/sıla-ikinci-644480151/
 description: More Info
 ---

@@ -21,6 +21,12 @@
                     <div class="speakers-caption">
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>
+                        <div class="soc">
+                             <a target="_blank" href="{{ post.twitter }}"> <i class="fa fa-twitter"></i> </a>
+                             <a target="_blank" href="{{ post.github }}"> <i class="fa fa-github"></i> </a>
+                             <a target="_blank" href="{{ post.linkedin }}"> <i class="fa fa-linkedin"></i> </a><br>
+                             <a target="_blank" href="{{ post.website }}" {font-size: 100px} > {{ post.web_name }} </a>
+                        </div>
                     </div>
                 </div>
             {% endfor %}

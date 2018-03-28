@@ -8,8 +8,8 @@ img: mchd.jpg
 thumbnail: mchd.jpg
 alt: Picture of TBD
 topic: Topic
-website: http://mucahiddogan.com
-web_name: mucahiddogan.com
+website: http://mucahiddogan.me
+web_name: mucahiddogan.me
 twitter: http://twitter.com/mucahiddogan_
 github: http://github.com/mucahiddogan
 linkedin: http://tr.linkedin.com/in/mucahiddogan

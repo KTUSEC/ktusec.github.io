@@ -9,7 +9,7 @@ thumbnail: aysegul.jpg
 alt: Picture of TBD
 topic: Topic
 website:
-web_name:
+web_name: .
 twitter: http://twitter.com/aysegulsahin_
 github: http://github.com/aysegulsahin
 linkedin: http://tr.linkedin.com/in/aysegulsahin

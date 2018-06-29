@@ -8,6 +8,8 @@ img: sila2.jpg
 thumbnail: sila2.jpg
 alt: Picture of TBD
 topic: topıc
+website: 
+web_name: .
 twitter: https://twitter.com/ikinci_s
 github: https://github.com/Sila2
 linkedin: https://www.linkedin.com/in/sıla-ikinci-644480151/

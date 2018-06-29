@@ -8,6 +8,8 @@ img: emirc.jpg
 thumbnail: emirc.jpg
 alt: Picture of TBD
 topic: topıc
+website:
+web_name: . 
 twitter: https://twitter.com/emirc52
 description: More Info
 ---

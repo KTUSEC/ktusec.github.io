@@ -9,7 +9,7 @@ thumbnail: yasin.jpg
 alt: Picture of TBD
 topic: Topic
 website:
-web_name:
+web_name: .
 twitter: https://twitter.com/koka_koala
 github: http://github.com/ysnacrk
 linkedin:

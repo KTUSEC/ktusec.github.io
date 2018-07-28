@@ -1,17 +1,17 @@
 ---
-title: Ayşegül Şahin
+title: Kerem Oruç
 name: Name-08
-subtitle: Developer
+subtitle: Geliştirici
 layout: 2017_default
 modal-id: 1
-img: aysegul.jpg
-thumbnail: aysegul.jpg
+img: keraattin.jpg
+thumbnail: keraattin.jpg
 alt: Picture of TBD
 topic: Topic
-website:
-web_name: .
-twitter: http://twitter.com/aysegulsahin_
-github: http://github.com/aysegulsahin
-linkedin: http://tr.linkedin.com/in/aysegulsahin
+website: http://keraattin.co
+web_name: keraattin.co
+twitter: http://twitter.com/keraattin
+github: http://github.com/keraattin
+linkedin: http://tr.linkedin.com/in/keremoruc
 description: More Info
 ---

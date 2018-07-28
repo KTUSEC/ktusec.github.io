@@ -1,7 +1,7 @@
 ---
 title: Mücahid Doğan
 name: Name-15
-subtitle: Team Lead
+subtitle: Yönetim Kurulu Başkanı
 layout: 2017_default
 modal-id: 1
 img: mchd.jpg

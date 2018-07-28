@@ -1,17 +1,17 @@
 ---
-title: Sıla İkinci
+title: Ayşegül Şahin
 name: Name-12
-subtitle: Developer
+subtitle: Organizasyon Kurulu Başkanı
 layout: 2017_default
 modal-id: 1
-img: sila2.jpg
-thumbnail: sila2.jpg
+img: aysegul.jpg
+thumbnail: aysegul.jpg
 alt: Picture of TBD
-topic: topıc
-website: 
+topic: Topic
+website:
 web_name: .
-twitter: https://twitter.com/ikinci_s
-github: https://github.com/Sila2
-linkedin: https://www.linkedin.com/in/sıla-ikinci-644480151/
+twitter: http://twitter.com/aysegulsahin_
+github: http://github.com/aysegulsahin
+linkedin: http://tr.linkedin.com/in/aysegulsahin
 description: More Info
 ---

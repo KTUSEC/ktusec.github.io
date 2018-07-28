@@ -1,15 +1,17 @@
 ---
-title: Emir Çetin
+title: Onur Sanır
 name: Name-11
-subtitle: Graphic Designer
+subtitle: Oyun Geliştirici
 layout: 2017_default
 modal-id: 1
-img: emirc.jpg
-thumbnail: emirc.jpg
+img: rdincel.jpg
+thumbnail: onsan.jpg
 alt: Picture of TBD
-topic: topıc
-website:
-web_name: . 
-twitter: https://twitter.com/emirc52
+topic: topic
+website: http://onursanir.com
+web_name: onursanir.com
+twitter: http://twitter.com/onursanir
+github: http://github.com/osanir
+linkedin: https://tr.linkedin.com/in/onur-sanir-a7058b127
 description: More Info
 ---

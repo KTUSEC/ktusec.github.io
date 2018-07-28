@@ -1,7 +1,7 @@
 ---
 title: Kerem Demirtürk
 name: Name-14
-subtitle: Co-Founder
+subtitle: Y. Kurulu Başkan Yardımcısı
 layout: 2017_default
 modal-id: 1
 img: kd.jpg

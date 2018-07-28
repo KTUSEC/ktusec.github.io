@@ -1,7 +1,7 @@
 ---
 title: Yasin Acıerik
 name: Name-09
-subtitle: Front-end Developer
+subtitle: Önyüz Geliştirici
 layout: 2017_default
 modal-id: 1
 img: yasin.jpg

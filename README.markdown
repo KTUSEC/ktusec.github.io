@@ -1,6 +1,7 @@
-# :sparkles: [ktusec.com](http://ktusec.com)
+# :sparkles: [ktusec.org](https://ktusec.org)
 
-KtuSec Siber Güvenlik Kulübü resmi websitesi.
+KtuSec;
+Karadeniz Teknik Üniversitesi Siber Güvenlik Kulübü resmi websitesi.
 
 
 ## :octocat: Contributors

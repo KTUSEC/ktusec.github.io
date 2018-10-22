@@ -1,7 +1,7 @@
 ---
 title: Ayşegül Şahin
 name: Name-12
-subtitle: Organizasyon Kurulu Başkanı
+subtitle: Etkinlik Org. Kurulu Başkanı
 layout: 2017_default
 modal-id: 1
 img: aysegul.jpg

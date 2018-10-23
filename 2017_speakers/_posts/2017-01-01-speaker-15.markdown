@@ -10,7 +10,7 @@ alt: Picture of TBD
 topic: Topic
 website: http://mucahiddogan.me
 web_name: mucahiddogan.me
-twitter: http://twitter.com/mucahiddogan_
+twitter: http://twitter.com/mucahiddogann
 github: http://github.com/mucahiddogan
 linkedin: http://tr.linkedin.com/in/mucahiddogan
 description: More Info

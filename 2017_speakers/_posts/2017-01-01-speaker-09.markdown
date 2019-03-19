@@ -1,17 +1,17 @@
 ---
-title: Yasin Acıerik
+title: Muzaffer Kadir Yılmaz
 name: Name-09
-subtitle: Önyüz Geliştirici
+subtitle: Ar-Ge
 layout: 2017_default
 modal-id: 1
-img: yasin.jpg
-thumbnail: yasin.jpg
+img: mky.jpg
+thumbnail: mky.jpg
 alt: Picture of TBD
 topic: Topic
-website:
-web_name: .
-twitter: https://twitter.com/koka_koala
-github: http://github.com/ysnacrk
-linkedin:
+website: https://muzafferkadir.com
+web_name: muzafferkadir.com
+twitter: https://twitter.com/muzafferkadir
+github: http://github.com/muzafferkadir
+linkedin: https://linkedin.com/in/muzafferkadir
 description: More Info
 ---

@@ -1,17 +1,17 @@
 ---
-title: Onur Sanır
+title: Buğra Tanır
 name: Name-11
-subtitle: Oyun Geliştirici
+subtitle: Ar-Ge Komitesi Başkanı
 layout: 2017_default
 modal-id: 1
-img: rdincel.jpg
-thumbnail: onsan.jpg
+img: bugra.jpg
+thumbnail: bugra.jpg
 alt: Picture of TBD
 topic: topic
-website: http://onursanir.com
-web_name: onursanir.com
-twitter: http://twitter.com/onursanir
-github: http://github.com/osanir
-linkedin: https://tr.linkedin.com/in/onur-sanir-a7058b127
+website: 
+web_name: .
+twitter: https://twitter.com/TanrBugra
+github: https://github.com/bugratanir
+linkedin: https://www.linkedin.com/in/bu%C4%9Fra-tan%C4%B1r-87798111a/
 description: More Info
 ---

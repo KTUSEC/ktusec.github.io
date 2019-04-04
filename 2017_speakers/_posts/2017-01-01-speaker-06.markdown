@@ -1,0 +1,17 @@
+---
+title: Işılnaz Alan
+name: Name-06
+subtitle: Etkinlik Organizasyon Kurulu Üyesi
+layout: 2017_default
+modal-id: 1
+img: isil.jpg
+thumbnail: isil.jpg
+alt: Picture of TBD
+topic: Topic
+website: 
+web_name: .
+twitter: http://twitter.com/isilnazalan
+github: #
+linkedin: https://www.linkedin.com/in/isilnazalan
+description: More Info
+---

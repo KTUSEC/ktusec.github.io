@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KtuSec | Siber Güvenlik Kulübü</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 04 Apr 2019 15:14:25 +0300</pubDate>
+    <lastBuildDate>Thu, 04 Apr 2019 15:14:25 +0300</lastBuildDate>
+    <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Name</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/31/team-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/31/team-3/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Name</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/31/team-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/31/team-2/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Name</title>
+        <description>
+</description>
+        <pubDate>Wed, 31 May 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_teams/2017/05/31/team-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_teams/2017/05/31/team-1/</guid>
+        
+        
+        <category>2017_teams</category>
+        
+      </item>
+    
+      <item>
+        <title>Mücahid Doğan</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_speakers/2017/01/01/speaker-15/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_speakers/2017/01/01/speaker-15/</guid>
+        
+        
+        <category>2017_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Sıla İkinci</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_speakers/2017/01/01/speaker-13/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_speakers/2017/01/01/speaker-13/</guid>
+        
+        
+        <category>2017_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Ayşegül Şahin</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_speakers/2017/01/01/speaker-12/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_speakers/2017/01/01/speaker-12/</guid>
+        
+        
+        <category>2017_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Buğra Tanır</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_speakers/2017/01/01/speaker-11/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_speakers/2017/01/01/speaker-11/</guid>
+        
+        
+        <category>2017_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Emir Çetin</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_speakers/2017/01/01/speaker-10/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_speakers/2017/01/01/speaker-10/</guid>
+        
+        
+        <category>2017_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Muzaffer Kadir Yılmaz</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_speakers/2017/01/01/speaker-09/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_speakers/2017/01/01/speaker-09/</guid>
+        
+        
+        <category>2017_speakers</category>
+        
+      </item>
+    
+      <item>
+        <title>Kerem Oruç</title>
+        <description>
+</description>
+        <pubDate>Sun, 01 Jan 2017 00:00:00 +0300</pubDate>
+        <link>http://localhost:4000/2017_speakers/2017/01/01/speaker-08/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017_speakers/2017/01/01/speaker-08/</guid>
+        
+        
+        <category>2017_speakers</category>
+        
+      </item>
+    
+  </channel>
+</rss>

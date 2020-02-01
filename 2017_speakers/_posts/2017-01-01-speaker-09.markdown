@@ -1,17 +1,17 @@
 ---
-title: Muzaffer Kadir Yılmaz
-name: Name-09
-subtitle: Ar-Ge
+title: Özge Budak
+name: Name-07
+subtitle: Etkinlik Organizasyon Kurulu Üyesi
 layout: 2017_default
 modal-id: 1
-img: mky.jpg
-thumbnail: mky.jpg
+img: ozge.jpg
+thumbnail: ozge.jpg
 alt: Picture of TBD
 topic: Topic
-website: https://muzafferkadir.com
-web_name: muzafferkadir.com
-twitter: https://twitter.com/muzafferkadir
-github: http://github.com/muzafferkadir
-linkedin: https://linkedin.com/in/muzafferkadir
+website: 
+web_name: .
+twitter: http://twitter.com/ozgeebudak
+github: http://github.com/ozgebudak
+linkedin: https://www.linkedin.com/in/özge-budak-127337181/
 description: More Info
 ---

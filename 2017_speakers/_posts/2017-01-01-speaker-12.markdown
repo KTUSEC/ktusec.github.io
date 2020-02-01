@@ -1,17 +1,17 @@
 ---
-title: Ayşegül Şahin
+title: Işılnaz Alan
 name: Name-12
-subtitle: Etkinlik Organizasyon Kurulu Başkanı
+subtitle: Etkinlik ve Organizasyon Komitesi Başkanı
 layout: 2017_default
 modal-id: 1
-img: aysegul.jpg
-thumbnail: aysegul.jpg
+img: isil.jpg
+thumbnail: isil.jpg
 alt: Picture of TBD
 topic: Topic
 website:
 web_name: .
-twitter: http://twitter.com/aysegulsahin_
-github: http://github.com/aysegulsahin
-linkedin: http://tr.linkedin.com/in/aysegulsahin
+twitter: http://twitter.com/isilnazalan
+github: #
+linkedin: https://www.linkedin.com/in/isilnazalan
 description: More Info
 ---

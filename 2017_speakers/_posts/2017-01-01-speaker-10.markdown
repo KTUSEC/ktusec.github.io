@@ -1,15 +1,17 @@
 ---
-title: Emir Çetin
+title: Boran Kırışoğlu
 name: Name-10
-subtitle: Grafik Tasarımcı
+subtitle: Sosyal Medya ve İletişim Koordinatörü
 layout: 2017_default
 modal-id: 1
-img: emirc.jpg
-thumbnail: emirc.jpg
+img: boran.jpg
+thumbnail: boran.jpg
 alt: Picture of TBD
 topic: topıc
 website:
 web_name: . 
-twitter: https://twitter.com/emirc52
+twitter: https://twitter.com/borankirisoglu
+github: #
+linkedin: https://www.linkedin.com/in/boran-kırısoğlu-969797181/
 description: More Info
 ---

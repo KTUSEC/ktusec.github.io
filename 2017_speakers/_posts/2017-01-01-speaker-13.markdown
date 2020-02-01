@@ -1,7 +1,7 @@
 ---
 title: Sıla İkinci
 name: Name-13
-subtitle: Kulüp Genel Sekreteri
+subtitle: Yönetim Kurulu Başkan Yardımcısı
 layout: 2017_default
 modal-id: 1
 img: sila2.jpg

@@ -1,5 +1,5 @@
 ---
-title: Kerem Oruç
+title: Metehan Bulut
 name: Name-08
 subtitle: Geliştirici
 layout: 2017_default

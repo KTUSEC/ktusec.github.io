@@ -4,14 +4,13 @@ name: Name-08
 subtitle: Geliştirici
 layout: 2017_default
 modal-id: 1
-img: keraattin.jpg
-thumbnail: keraattin.jpg
+img: mete.jpg
+thumbnail: mete.jpg
 alt: Picture of TBD
 topic: Topic
-website: http://keraattin.co
-web_name: keraattin.co
-twitter: http://twitter.com/keraattin
-github: http://github.com/keraattin
-linkedin: http://tr.linkedin.com/in/keremoruc
+website: 
+web_name: .
+
+linkedin: https://tr.linkedin.com/in/metehanbulut
 description: More Info
 ---

@@ -4,8 +4,8 @@ name: Name-15
 subtitle: Yönetim Kurulu Başkanı
 layout: 2017_default
 modal-id: 1
-img: mchd.jpg
-thumbnail: mchd.jpg
+img: md.jpg
+thumbnail: md.jpg
 alt: Picture of TBD
 topic: Topic
 website: http://mucahiddogan.github.io

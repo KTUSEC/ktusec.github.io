@@ -1,7 +1,7 @@
 ---
 title: Özge Budak
 name: Name-07
-subtitle: Etkinlik Organizasyon Kurulu Üyesi
+subtitle: Etkinlik ve Organizasyon Komitesi Üyesi
 layout: 2017_default
 modal-id: 1
 img: ozge.jpg

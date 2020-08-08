@@ -1,7 +1,7 @@
 ---
 title: Metehan Bulut
 name: Name-08
-subtitle: Geliştirici
+  subtitle: AR-GE Komitesi Başkanı
 layout: 2017_default
 modal-id: 1
 img: mete.jpg

@@ -1,7 +1,7 @@
 ---
 title: Buğra Tanır
 name: Name-11
-subtitle: Ar-Ge Komitesi Başkanı
+subtitle: Yönetim Kurulu Başkan Yardımcısı
 layout: 2017_default
 modal-id: 1
 img: bugra.jpg

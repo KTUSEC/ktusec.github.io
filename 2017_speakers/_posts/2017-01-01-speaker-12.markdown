@@ -1,7 +1,7 @@
 ---
 title: Işılnaz Alan
 name: Name-12
-subtitle: Etkinlik ve Organizasyon Komitesi Başkanı
+subtitle: Yazman
 layout: 2017_default
 modal-id: 1
 img: isil.jpg

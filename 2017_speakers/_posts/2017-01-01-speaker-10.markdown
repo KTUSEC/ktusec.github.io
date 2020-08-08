@@ -1,7 +1,7 @@
 ---
 title: Boran Kırışoğlu
 name: Name-10
-subtitle: Sosyal Medya ve İletişim Koordinatörü
+subtitle: Etkinlik ve Organizasyon Komitesi Başkanı
 layout: 2017_default
 modal-id: 1
 img: boran.jpg
